@@ -93,5 +93,3 @@ Fitness Buddy AI Agent solves this problem by offering simple and personalized f
 
 ---
 
-##  License
-This project was created for learning purposes as part of the IBM SkillsBuild / AICTE Internship Program.
